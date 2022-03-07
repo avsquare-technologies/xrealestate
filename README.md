@@ -1,32 +1,33 @@
 ## xReal Estate
 
-A online-based platform connecting people for collaboration and Selling, Renting, Leasing and Agreements.
+A online-based platform connecting people for collaboration and Selling, Buying, Renting, Leasing and Agreements.
 
 
 ## What is xReal Esate? 
 
 Blockchain based eCommerce website and Mobile Application to Property Sell, Buy, Rent and Leasing in transparent way using XRP Ledger. 
 
-Our applition eventually do functions such as property Listing, Payment using XRP and Legal Documents. 
+Our application eventually do functions such as property Listing, Buying and Renting property. Payment using XRP. 
 
-Save time & Save Commission by cutting out the intermediaires. 
+Save time & Commission by cutting out the intermediaires. 
 
 
 ## The xReal Estate Concept
 
-- Property Owners creating the property as NFT
-- Listing all their properties on Website and mobile application
-- Customer will search and Create Offer
-- Accept the Offer
+- Property Owners creating the property (Sell or Renting Property) as NFT
+- Listing all their properties in Website and mobile application
+- Customer will search and Create Offer on Intersted Property
+- Accept the Offer once Property Visit
 - Creating agreement as Smart Contract. 
 - All Payments using XRP 
+
 
 
 ## Decentralization 
 
 Blockchain commands trust and security as a decentralized technology. Information stored in the blockchain is accessible to all peers on the network, making data transparent and immutable. 
 
-- <strong>Property Verification</strong> XR Real Estate ensure property verification, an attorney experienced in Real Estate transactions scrutinizes all the property documents to make sure that the property has a clear title and does not carry any encumbrances. Approved property only allowed to Listing on website and Mobile app. Verification Reports will be included as Meta Data into XRPL Transaction. 
+- <strong>Property Verification</strong> xReal Estate ensure property verification, an attorney experienced in Real Estate transactions scrutinizes all the property documents to make sure that the property has a clear title and does not carry any encumbrances before Mint NFT. Approved property only allowed to Listing on website and Mobile app. Verification Reports and document copy/ Details will be included as Meta Data into XRPL Transaction. 
 
 - <strong>secure payments</strong> xReal Estate helps to ensure the Sellers', Buyers' and Rental value while reducing the intermediaries and fraud through the transparent deCentralized Blockchain Network like XRPL. 
 
@@ -65,7 +66,3 @@ xReal Estate planning to integrate Crypto payment using XRP (Ripple).
 Ripple is a blockchain-based digital payment network and protocol with its own cryptocurrency, XRP.  
 
 All transactions are public, with strong cryptography to guarantee the integrity of the system using XRPL.
-
-
-
-
